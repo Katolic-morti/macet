@@ -1,0 +1,115 @@
+body{
+    margin: 40px 40px 40px 40px;
+}
+header{
+    background-color: rgb(0, 0, 0);
+    color: rgb(251, 251, 251);
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+    padding-left: 0px;
+    margin:  -40px -40px -55px -40px;
+}
+.qwe{
+    font-size: 45px;
+    font-family: Times;
+    left: 20px;
+}
+.asd{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: -25px;
+    left: -70px;
+    bottom: 25px;
+    
+}
+.wq{
+    text-decoration: none ;
+    position:relative;
+    left: 500px;
+    color:white;
+    text-transform: uppercase;
+    padding: 0px 10px 0px 40px;
+}
+.zxc{
+    background: linear-gradient(to right, rgb(85, 220, 230),65%, rgb(223, 253, 73));
+    text-align: center;
+    color: rgb(2, 2, 2);
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;   
+    margin: 20px -40px 90px -40px;
+}
+.fgh{
+    text-align: center;
+    font-size: 20px;
+    font-family: Times;
+}
+.cvb {
+    font-size: 30px;
+   
+    padding-top: 60px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    text-align: center;
+}
+.fon{
+    background-color: rgb(255, 255, 255);
+    margin-left: 70px;
+    margin-top: -60px;
+}
+.bilet {
+    color: rgb(148, 146, 143);
+    font-size: 20px;
+
+}
+.clova{
+    font-family: Times;
+}
+.tecst{
+    margin-left: 130px;
+    color: black;
+    font-size: 20px;
+    font-family: Times; 
+}
+.q1 {
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+.knopca{
+    
+    width: 130px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(57, 57, 138);
+     font-size: 18p5x;
+}
+.spicok{
+    color: white;
+    font-size: 35px;
+    font-family: Times;
+    margin-top: -350px;
+    margin-left: 1000px;
+}
+.mo{
+    background-color: rgb(26, 26, 112);
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    margin:  40px -40px -55px -40px;
+ 
+}
+.lkj{
+    font-size: 20px;
+    color: white;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    margin:  -40px -40px -55px -40px;
+}
